@@ -1,0 +1,36 @@
+{
+ "anytube": 1,
+ "kind": "model",
+ "title": "Снимок экрана 2026-10-24 213523",
+ "file": "snimok_ekrana_2026-10-24_213523.mp4",
+ "duration": 8.0,
+ "parts": [
+  {
+   "repo": "anytubevideo_snimok_ekrana_2026-10-24_213523",
+   "path": "snimok_ekrana_2026-10-24_213523.mp4",
+   "size": 81835,
+   "duration": 8.0,
+   "lfs": false
+  }
+ ],
+ "description": {
+  "chars": 23,
+  "chunks": [
+   {
+    "repo": "anytubevideo_snimok_ekrana_2026-10-24_213523",
+    "path": "description.part0001.txt",
+    "chars": 23,
+    "size": 43
+   }
+  ]
+ },
+ "files": [
+  {
+   "repo": "anytubevideo_snimok_ekrana_2026-10-24_213523",
+   "path": "village in heaven.glb",
+   "size": 7261560,
+   "lfs": false,
+   "name": "village in heaven.glb"
+  }
+ ]
+}
